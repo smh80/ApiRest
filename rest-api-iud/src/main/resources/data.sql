@@ -1,0 +1,16 @@
+INSERT INTO USUARIOS (name,birthdate) VALUES
+  ('Arturo',parseDateTime('01-12-2010','dd-MM-yyyy')),
+  ('Jorge',parseDateTime('05-05-1980','dd-MM-yyyy')),
+  ('Elena',parseDateTime('11-05-1999','dd-MM-yyyy')),
+  ('Pedro',parseDateTime('16-11-2010','dd-MM-yyyy')),
+  ('Ana',parseDateTime('04-10-2010','dd-MM-yyyy')),
+  ('Sergio',parseDateTime('04-07-2010','dd-MM-yyyy')),
+  ('David',parseDateTime('07-02-2016','dd-MM-yyyy')),
+  ('Blanca',parseDateTime('01-08-2010','dd-MM-yyyy')),
+  ('Bruno',parseDateTime('05-09-1978','dd-MM-yyyy')),
+  ('Teo',parseDateTime('21-12-1960','dd-MM-yyyy')),
+  ('Rogelio',parseDateTime('19-12-2008','dd-MM-yyyy')),
+  ('Silvia',parseDateTime('13-12-2000','dd-MM-yyyy')),
+  ('Inés',parseDateTime('21-12-2013','dd-MM-yyyy')),
+  ('Iñaki',parseDateTime('09-12-2010','dd-MM-yyyy')),
+  ('Mónica',parseDateTime('23-01-1979','dd-MM-yyyy'));
